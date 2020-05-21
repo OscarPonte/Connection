@@ -1,0 +1,7 @@
+C:\Users\Cassius\Desktop\GitHubRepo\DbConnection\bin\Debug\DbConnection.exe.config
+C:\Users\Cassius\Desktop\GitHubRepo\DbConnection\bin\Debug\DbConnection.exe
+C:\Users\Cassius\Desktop\GitHubRepo\DbConnection\bin\Debug\DbConnection.pdb
+C:\Users\Cassius\Desktop\GitHubRepo\DbConnection\obj\Debug\DbConnection.csprojAssemblyReference.cache
+C:\Users\Cassius\Desktop\GitHubRepo\DbConnection\obj\Debug\DbConnection.csproj.CoreCompileInputs.cache
+C:\Users\Cassius\Desktop\GitHubRepo\DbConnection\obj\Debug\DbConnection.exe
+C:\Users\Cassius\Desktop\GitHubRepo\DbConnection\obj\Debug\DbConnection.pdb
