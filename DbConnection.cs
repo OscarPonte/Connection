@@ -2,7 +2,7 @@
 
 namespace DbConnection
 {
-    public abstract class DbConnection
+    public class DbConnection
     {
         private string _connectionString;
        // private TimeSpan _timeOut;
@@ -13,7 +13,14 @@ namespace DbConnection
             _connectionString = connectionString ?? throw new InvalidOperationException("Invalid ConnectionString");
         }
 
-        public abstract void OpenConnection();
-        public abstract void CloseConnection();
+        public virtual void OpenConnection()
+        {
+
+        }
+
+        public virtual void CloseConnection()
+        {
+
+        }
     }
 }
